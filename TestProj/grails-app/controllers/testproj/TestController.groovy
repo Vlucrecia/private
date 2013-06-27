@@ -2,5 +2,7 @@ package testproj
 
 class TestController {
 
-    def index() { }
+    def index() {
+		render "aa"
+	}
 }
